@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="C/C++">
+        <added pattern="glm::vec::vec(_x,_y,_z)" />
+      </blacklist>
+    </blacklists>
+    <disabledLanguages>
+      <language id="ObjectiveC" />
+    </disabledLanguages>
+  </component>
+</application>
