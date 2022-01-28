@@ -1,6 +1,7 @@
 <application>
   <component name="DiscordApplicationSettings">
     <option name="show" value="true" />
+    <option name="timeoutResetTimeEnabled" value="false" />
     <option name="idle" value="IGNORE" />
     <option name="applicationDetails" value="APPLICATION_VERSION" />
     <option name="applicationDetailsCustom" value="" />
@@ -14,7 +15,7 @@
     <option name="projectIconLargeTextCustom" value="" />
     <option name="projectIconSmallTextCustom" value="" />
     <option name="projectTime" value="APPLICATION" />
-    <option name="fileDetails" value="PROJECT_NAME_VCS_BRANCH" />
+    <option name="fileDetails" value="NONE" />
     <option name="fileDetailsCustom" value="" />
     <option name="fileState" value="FILE_LANGUAGE" />
     <option name="fileStateCustom" value="" />
