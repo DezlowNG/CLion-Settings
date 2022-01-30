@@ -2,9 +2,9 @@
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="0" />
   <Objective-C>
-    <option name="NAMESPACE_BRACE_PLACEMENT" value="5" />
-    <option name="FUNCTION_BRACE_PLACEMENT" value="5" />
-    <option name="BLOCK_BRACE_PLACEMENT" value="5" />
+    <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
+    <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
+    <option name="BLOCK_BRACE_PLACEMENT" value="2" />
     <option name="FUNCTION_NON_TOP_AFTER_RETURN_TYPE_WRAP" value="0" />
     <option name="FUNCTION_TOP_AFTER_RETURN_TYPE_WRAP" value="0" />
     <option name="FUNCTION_PARAMETERS_WRAP" value="0" />
@@ -30,8 +30,11 @@
   <codeStyleSettings language="ObjectiveC">
     <option name="RIGHT_MARGIN" value="0" />
     <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="BLANK_LINES_AROUND_CLASS" value="0" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+    <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
     <option name="BRACE_STYLE" value="2" />
-    <option name="CLASS_BRACE_STYLE" value="5" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="INDENT_CASE_FROM_SWITCH" value="false" />
