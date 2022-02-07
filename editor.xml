@@ -2,4 +2,7 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="100" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_INTENTION_PREVIEW" value="true" />
+  </component>
 </application>
