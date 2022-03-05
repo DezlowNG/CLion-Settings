@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="DezlowNG" id="8fed703a-fcc0-43c5-92c2-381ed74d0fd6">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
