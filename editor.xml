@@ -23,6 +23,9 @@
     </option>
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="oc.type.hints" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
