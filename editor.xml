@@ -19,6 +19,7 @@
         <entry key="Python" value="false" />
         <entry key="XHTML" value="false" />
         <entry key="XML" value="false" />
+        <entry key="yaml" value="false" />
       </map>
     </option>
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
