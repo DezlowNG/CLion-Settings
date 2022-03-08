@@ -1,0 +1,25 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="customTreeIndentEnabled" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="fileStatusColorsEnabled" value="false" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="customSidebarHeight" value="22" />
+    <option name="settingsSelectedTab" value="4" />
+    <option name="tabsHeight" value="30" />
+    <option name="accentColor" value="416a9b" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="-73f01751:17d04daa5f3:-8000" />
+    <option name="version" value="6.13.0" />
+    <option name="showWhatsNew" value="false" />
+  </component>
+</application>
