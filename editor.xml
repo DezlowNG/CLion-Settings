@@ -25,6 +25,11 @@
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="ObjectiveC" />
+      </set>
+    </option>
     <option name="lastViewedProviderKeyId" value="oc.type.hints" />
   </component>
   <component name="TodoConfiguration">
