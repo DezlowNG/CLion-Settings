@@ -25,12 +25,14 @@
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="disabledLanguages">
-      <set>
-        <option value="ObjectiveC" />
-      </set>
-    </option>
     <option name="lastViewedProviderKeyId" value="oc.type.hints" />
+    <settingsMapElement>
+      <ObjectiveC.oc.type.hints>
+        <ClionClangTypeHintSettings>
+          <option name="showObviousTypes" value="true" />
+        </ClionClangTypeHintSettings>
+      </ObjectiveC.oc.type.hints>
+    </settingsMapElement>
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
