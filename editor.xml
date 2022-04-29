@@ -1,9 +1,11 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="completionCaseSensitive" value="1" />
+    <option name="selectAutopopupSuggestionsByChars" value="true" />
     <option name="PARAMETER_INFO_DELAY" value="0" />
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="1" />
+    <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="150" />
@@ -33,6 +35,12 @@
         </ClionClangTypeHintSettings>
       </ObjectiveC.oc.type.hints>
     </settingsMapElement>
+  </component>
+  <component name="OCCodeFoldingSettings">
+    <option name="collapseConditionallyNotCompiled" value="false" />
+    <option name="collapseNewLineBeforeLBrace" value="false" />
+    <option name="COLLAPSE_CONDITIONALLY_NOT_COMPILED" value="false" />
+    <option name="COLLAPSE_NEW_LINE_BEFORE_LBRACE" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
