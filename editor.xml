@@ -25,10 +25,11 @@
       </map>
     </option>
     <option name="TOOLTIPS_DELAY_MS" value="1000" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="" />
+    <option name="lastViewedProviderKeyId" value="ObjectiveC.oc.type.hints.lambdas" />
     <settingsMapElement>
       <ObjectiveC.oc.type.hints>
         <ClionClangTypeHintSettings>
