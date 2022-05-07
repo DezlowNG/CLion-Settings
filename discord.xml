@@ -18,18 +18,19 @@
     <option name="projectTime" value="APPLICATION" />
     <option name="fileDetails" value="FILE_NAME" />
     <option name="fileDetailsCustom" value="" />
-    <option name="fileState" value="FILE_LANGUAGE" />
+    <option name="fileState" value="NONE" />
     <option name="fileStateCustom" value="" />
     <option name="fileIconLarge" value="APPLICATION" />
     <option name="fileIconLargeText" value="NONE" />
     <option name="fileIconLargeTextCustom" value="" />
-    <option name="fileIconSmall" value="NONE" />
+    <option name="fileIconSmall" value="FILE" />
+    <option name="fileIconSmallText" value="FILE_LANGUAGE" />
     <option name="fileIconSmallTextCustom" value="" />
     <option name="fileTime" value="APPLICATION_TOTAL" />
     <option name="filePrefixEnabled" value="true" />
     <option name="fileHideVcsIgnored" value="false" />
     <option name="applicationType" value="IDE_EDITION" />
     <option name="theme" value="classic" />
-    <option name="applicationLastUpdateNotification" value="1.8.0" />
+    <option name="applicationLastUpdateNotification" value="1.9.0" />
   </component>
 </application>
