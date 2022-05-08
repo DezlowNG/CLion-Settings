@@ -56,5 +56,8 @@
   <action id="OpenInRightSplit">
     <mouse-shortcut keystroke="alt button1 doubleClick" />
   </action>
+  <action id="PVS-Studio.AnalyzeWith">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
