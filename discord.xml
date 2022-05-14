@@ -16,7 +16,7 @@
     <option name="projectIconLargeTextCustom" value="" />
     <option name="projectIconSmallTextCustom" value="" />
     <option name="projectTime" value="APPLICATION" />
-    <option name="fileDetails" value="FILE_NAME" />
+    <option name="fileDetails" value="FILE_LANGUAGE" />
     <option name="fileDetailsCustom" value="" />
     <option name="fileState" value="NONE" />
     <option name="fileStateCustom" value="" />
@@ -27,7 +27,7 @@
     <option name="fileIconSmallText" value="FILE_LANGUAGE" />
     <option name="fileIconSmallTextCustom" value="" />
     <option name="fileTime" value="APPLICATION_TOTAL" />
-    <option name="filePrefixEnabled" value="true" />
+    <option name="filePrefixEnabled" value="false" />
     <option name="fileHideVcsIgnored" value="false" />
     <option name="applicationType" value="IDE_EDITION" />
     <option name="theme" value="classic" />
