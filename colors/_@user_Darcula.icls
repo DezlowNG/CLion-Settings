@@ -3,7 +3,7 @@
     <property name="created">2022-05-08T22:00:19</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-15T00:15:45</property>
+    <property name="modified">2022-05-15T20:55:43</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -24,6 +24,11 @@
         <option name="BACKGROUND" value="2b2b2b" />
         <option name="EFFECT_COLOR" value="ffea00" />
         <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="OC.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ffede2" />
       </value>
     </option>
     <option name="OC.NAMESPACE_LIKE">
