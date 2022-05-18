@@ -10,6 +10,8 @@
     <option name="FUNCTION_BRACE_PLACEMENT" value="5" />
     <option name="FUNCTION_NON_TOP_AFTER_RETURN_TYPE_WRAP" value="0" />
     <option name="FUNCTION_TOP_AFTER_RETURN_TYPE_WRAP" value="0" />
+    <option name="LAMBDA_CAPTURE_LIST_WRAP" value="1" />
+    <option name="STRUCTURED_BINDING_LIST_WRAP" value="1" />
     <option name="SHIFT_OPERATION_WRAP" value="0" />
     <option name="SHIFT_OPERATION_ALIGN_MULTILINE" value="false" />
     <option name="CLASS_CONSTRUCTOR_INIT_LIST_NEW_LINE_BEFORE_COLON" value="0" />
@@ -81,11 +83,10 @@
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="false" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="false" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
-    <option name="BINARY_OPERATION_WRAP" value="0" />
     <option name="TERNARY_OPERATION_WRAP" value="0" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="false" />
     <option name="FOR_STATEMENT_WRAP" value="1" />
-    <option name="ARRAY_INITIALIZER_WRAP" value="0" />
+    <option name="ASSIGNMENT_WRAP" value="1" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <option name="WRAP_ON_TYPING" value="1" />
     <option name="SOFT_MARGINS" value="0" />
