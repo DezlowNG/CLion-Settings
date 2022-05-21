@@ -1,6 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\Windows\system32\wsl.exe -d Debian" />
     <option name="myTabName" value="Debian" />
   </component>
 </application>
