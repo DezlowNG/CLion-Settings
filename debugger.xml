@@ -1,6 +1,16 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+    </general>
+    <debuggers>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <option name="SHOW_FRAME_FUNCTION_TEMPLATE_ARGUMENTS" value="true" />
+          <option name="SHOW_FRAME_MODULE_NAME" value="true" />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>
