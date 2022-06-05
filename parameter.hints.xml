@@ -5,5 +5,12 @@
         <added pattern="glm::vec::vec(_x,_y,_z)" />
       </blacklist>
     </blacklists>
+    <option id="oc.clangd.namehints.enums" value="false" />
+    <option id="oc.clangd.namehints.array.indices" value="false" />
+    <option id="oc.clangd.namehints.construct.expr" value="false" />
+    <option id="oc.clangd.namehints.non.const.references" value="false" />
+    <disabledLanguages>
+      <language id="ObjectiveC" />
+    </disabledLanguages>
   </component>
 </application>

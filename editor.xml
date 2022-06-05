@@ -29,11 +29,18 @@
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="ObjectiveC.oc.type.hints" />
+      </set>
+    </option>
     <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
       <ObjectiveC.oc.type.hints>
         <ClionClangTypeHintSettings>
-          <option name="showObviousTypes" value="true" />
+          <option name="showDeducedReturnTypes" value="false" />
+          <option name="showForLambdas" value="false" />
+          <option name="showForVariables" value="false" />
         </ClionClangTypeHintSettings>
       </ObjectiveC.oc.type.hints>
     </settingsMapElement>
