@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <Objective-C>
+    <option name="INDENT_DIRECTIVE_AS_CODE" value="true" />
     <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
     <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
     <option name="FUNCTION_BRACE_PLACEMENT" value="5" />
@@ -8,6 +9,7 @@
     <option name="FUNCTION_TOP_AFTER_RETURN_TYPE_WRAP" value="0" />
     <option name="FUNCTION_PARAMETERS_WRAP" value="0" />
     <option name="LAMBDA_CAPTURE_LIST_ALIGN_MULTILINE" value="true" />
+    <option name="STRUCTURED_BINDING_LIST_ALIGN_MULTILINE" value="true" />
     <option name="FUNCTION_CALL_ARGUMENTS_WRAP" value="0" />
     <option name="SHIFT_OPERATION_WRAP" value="0" />
     <option name="TEMPLATE_DECLARATION_STRUCT_WRAP" value="0" />
@@ -66,11 +68,11 @@
   <files>
     <extensions>
       <pair source="cpp" header="hpp" fileNamingConvention="PASCAL_CASE" />
-      <pair source="c" header="h" fileNamingConvention="NONE" />
-      <pair source="cu" header="cuh" fileNamingConvention="NONE" />
     </extensions>
   </files>
   <codeStyleSettings language="ObjectiveC">
+    <option name="BLANK_LINES_AROUND_CLASS" value="0" />
+    <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
@@ -78,6 +80,8 @@
     <option name="BINARY_OPERATION_WRAP" value="0" />
     <option name="TERNARY_OPERATION_WRAP" value="0" />
     <option name="ARRAY_INITIALIZER_WRAP" value="0" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
   </codeStyleSettings>
 </code_scheme>
