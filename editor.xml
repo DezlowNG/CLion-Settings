@@ -27,6 +27,7 @@
     <option name="TOOLTIPS_DELAY_MS" value="1000" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
+    <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
   </component>
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
@@ -46,10 +47,12 @@
     </settingsMapElement>
   </component>
   <component name="OCCodeFoldingSettings">
-    <option name="collapseConditionallyNotCompiled" value="false" />
-    <option name="collapseNewLineBeforeLBrace" value="false" />
-    <option name="COLLAPSE_CONDITIONALLY_NOT_COMPILED" value="false" />
-    <option name="COLLAPSE_NEW_LINE_BEFORE_LBRACE" value="false" />
+    <option name="collapseBlockExpressions" value="true" />
+    <option name="collapseMultilineComments" value="true" />
+    <option name="collapseTemplateParamList" value="true" />
+    <option name="COLLAPSE_MULTILINE_COMMENTS" value="true" />
+    <option name="COLLAPSE_BLOCK_EXPRESSIONS" value="true" />
+    <option name="COLLAPSE_TEMPLATE_PARAM_LIST" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />

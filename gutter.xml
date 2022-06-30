@@ -1,0 +1,16 @@
+<application>
+  <component name="LineMarkerSettings">
+    <option name="providers">
+      <map>
+        <entry key="RenderedDoc" value="false" />
+        <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="false" />
+        <entry key="com.intellij.ui.ColorLineMarkerProvider" value="false" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureHtmlImageLineMarkerProvider" value="false" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureMarkdownImageLineMarkerProvider" value="false" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureTextHtmlImageLineMarkerProvider" value="false" />
+        <entry key="org.intellij.plugins.markdown.extensions.common.plantuml.PlantUMLCodeFenceDownloadLineMarkerProvider" value="false" />
+        <entry key="org.intellij.plugins.markdown.extensions.jcef.mermaid.MermaidCodeFenceDownloadLineMarkerProvider" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
