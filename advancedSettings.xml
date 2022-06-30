@@ -3,6 +3,7 @@
     <option name="settings">
       <map>
         <entry key="cidr.test.framework.showIndexingAsTask" value="false" />
+        <entry key="documentation.components.enable.highlighting.of.links" value="true" />
         <entry key="documentation.components.enable.inline.code.highlighting" value="true" />
         <entry key="ide.open.readme.md.on.startup" value="false" />
         <entry key="msvc.use.english.diagnostics" value="true" />
