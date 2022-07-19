@@ -1,6 +1,8 @@
 <application>
   <component name="GitToolBoxAppSettings2">
-    <option name="showBlameWidget" value="false" />
+    <option name="commitDialogCompletion" value="false" />
+    <option name="commitDialogGitmojiCompletionUnicode" value="true" />
     <option name="showEditorInlineBlame" value="false" />
+    <option name="version" value="6" />
   </component>
 </application>
