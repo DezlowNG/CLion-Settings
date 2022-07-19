@@ -71,7 +71,7 @@
   </clangFormatSettings>
   <files>
     <extensions>
-      <pair source="cpp" header="hpp" fileNamingConvention="PASCAL_CASE" />
+      <pair source="cpp" header="hpp" fileNamingConvention="NONE" />
     </extensions>
   </files>
   <codeStyleSettings language="ObjectiveC">
